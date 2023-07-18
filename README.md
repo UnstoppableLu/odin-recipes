@@ -1,0 +1,2 @@
+# odin-recipes
+Small Project
